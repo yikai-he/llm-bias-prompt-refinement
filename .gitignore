@@ -1,0 +1,20 @@
+# Secrets
+.env
+**/.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Notebooks and editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Generated experiment output
+test_results/agent_results/
+test_results/stat_eval/
+agent_pipeline/visualizations/
