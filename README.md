@@ -2,6 +2,11 @@
 
 An LLM-based pipeline for evaluating and improving gender-bias detection prompts. It runs a target model on implicit-bias samples, measures accuracy, balanced accuracy, and MCC, then uses a second LLM to refine prompts for misclassified examples.
 
+## Project Materials
+
+- [Project report](docs/project-report.pdf)
+- [Project poster](docs/project-poster.pdf)
+
 ## Setup
 
 Requires Python 3.12+.
